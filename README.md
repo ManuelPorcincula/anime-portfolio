@@ -1,4 +1,4 @@
-# ANIME Portfolio
+# Anime Portfolio
 
 
 Preview
